@@ -31,7 +31,7 @@ My personal portfolio showcasing my skills and projects.
 ---
 
 ## 📬 Contact Me
-- 📧 Email: rati11532@email.com  
+- 📧 Email: rati11532@gmail.com  
 - 💼 LinkedIn:   https://www.linkedin.com/in/rati-mehra-635337344
 - 💻 GitHub: https://github.com/Rati807 
 
